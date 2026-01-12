@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/steps-tracker/static/css/main.de1cb8b3.css",
+    "main.js": "/steps-tracker/static/js/main.fb7dabc8.js",
+    "static/js/453.952d7671.chunk.js": "/steps-tracker/static/js/453.952d7671.chunk.js",
+    "index.html": "/steps-tracker/index.html",
+    "main.de1cb8b3.css.map": "/steps-tracker/static/css/main.de1cb8b3.css.map",
+    "main.fb7dabc8.js.map": "/steps-tracker/static/js/main.fb7dabc8.js.map",
+    "453.952d7671.chunk.js.map": "/steps-tracker/static/js/453.952d7671.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1cb8b3.css",
+    "static/js/main.fb7dabc8.js"
+  ]
+}
